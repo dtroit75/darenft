@@ -1,4 +1,4 @@
-# Base-Powered Web3 Raffle dApp
+# DARE Web3 Raffle dApp
 
 A fully functional decentralized raffle dApp deployed on Base, integrating OnchainKit, Basenames, and Chainlink VRF for verifiable randomness.
 
@@ -19,7 +19,16 @@ A fully functional decentralized raffle dApp deployed on Base, integrating Oncha
 - **Frontend**: Next.js + Tailwind CSS + OnchainKit
 - **Identity**: Basenames
 - **Storage**: IPFS (via Pinata)
-- **Hosting**: Vercel
+- **Hosting**: Vercel and OharaAI
+
+  ## Project Links
+  Vercel build (https://spurs-fan-nft-platform.vercel.app/)
+  Ohara build (https://ohara.ai/mini-apps/17345bba-543d-4197-8fee-0adc9997d9bf/build)
+
+  ## Project Demo
+  <img width="1287" height="613" alt="gallery v2" src="https://github.com/user-attachments/assets/30a3b0f4-2279-48e5-a7c9-34ca4f149b22" />
+<img width="1288" height="620" alt="dare to base" src="https://github.com/user-attachments/assets/ec19b1d4-866a-4a7f-bd22-8d9503b83362" />
+
 
 ## 📁 Project Structure
 
