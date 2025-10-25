@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Web3 Raffle dApp",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_17345bba-543d-4197-8fee-0adc9997d9bf-gW0neDbmgz2eFap0jyNzOz5ULFVnea",
+    "homeUrl": "https://studied-labor-980.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_17345bba-543d-4197-8fee-0adc9997d9bf-gW0neDbmgz2eFap0jyNzOz5ULFVnea",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Web3 Raffle dApp",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_17345bba-543d-4197-8fee-0adc9997d9bf-gW0neDbmgz2eFap0jyNzOz5ULFVnea"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
